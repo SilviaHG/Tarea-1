@@ -1,0 +1,10 @@
+C:\Users\sahg1\source\repos\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\sahg1\source\repos\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\sahg1\source\repos\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\sahg1\source\repos\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\sahg1\source\repos\Tarea1\obj\Debug\Tarea1.Form1.resources
+C:\Users\sahg1\source\repos\Tarea1\obj\Debug\Tarea1.Properties.Resources.resources
+C:\Users\sahg1\source\repos\Tarea1\obj\Debug\Tarea1.csproj.GenerateResource.cache
+C:\Users\sahg1\source\repos\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\sahg1\source\repos\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\sahg1\source\repos\Tarea1\obj\Debug\Tarea1.pdb
